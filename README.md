@@ -16,3 +16,4 @@ highly unimpressed with this as a simple text editor.  It has rules/behavior lik
   
   asdkflaslk;dfjsa;idlf
   
+Changing from soft wrap mode to no wrap mode.  Curious what happens.
