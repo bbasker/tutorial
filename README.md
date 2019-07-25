@@ -9,3 +9,10 @@ this is on line 7 in edit mode
 
 this was typed on line 10.  Checking if periods signal anything,
 Now on line 11, with a black line 12 following this.
+
+
+highly unimpressed with this as a simple text editor.  It has rules/behavior like no other I've seen.
+ 
+  
+  asdkflaslk;dfjsa;idlf
+  
